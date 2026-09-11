@@ -1,1 +1,1 @@
-# whoispresent-admob
+google.com, pub-4621694202199556, DIRECT, f08c47fec0942fa0
